@@ -7,4 +7,5 @@ Outlier Detection: Identify outliers in numerical variables with statistical tec
 Data Imbalance Analysis: Examine the class distribution of loan statuses and assess data imbalance.
 Univariate & Bivariate Analysis: Explore variable distributions and relationships using Excel pivot tables and charts.
 Correlation Analysis: Find top correlations between customer/loan attributes and default risk.
+
 This project provides a structured approach to risk analysis in financial services, offering data-driven insights for loan approvals.
